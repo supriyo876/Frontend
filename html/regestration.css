@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    padding: 0px;;
+    background-color: #1a1a1a;
+}
+h1{
+   color:  #e4dede;
+}
+.blue{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(55, 55, 201);
+    height: 50%;
+}
+p{
+    width: 75%;
+}
+img{
+    border-radius: 10px;
+}
+
+form{
+    background-color: #0e0e38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    height: 400px;
+    margin-left: 350px;
+    gap: 10px;
+
+}
+label{
+    color: rgb(245, 245, 245);
+}
